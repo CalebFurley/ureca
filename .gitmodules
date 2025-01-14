@@ -6,7 +6,7 @@
 	url = https://gitlab.com/libeigen/eigen.git
 [submodule "libraries/eigen"]
 	path = libraries/eigen
-	url = https://gitlab.com/libeigen/eigen
+	url = git@github.com:libigl/eigen.git
 [submodule "libraries/pybind11"]
 	path = libraries/pybind11
 	url = git@github.com:pybind/pybind11.git
